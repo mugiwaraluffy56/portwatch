@@ -4,7 +4,6 @@ A terminal UI for watching what's listening on your machine. See every open port
 
 <!-- screenshot -->
 <img width="1004" height="722" alt="image" src="https://github.com/user-attachments/assets/f09e3880-98af-463d-ae58-6e954c4cedeb" />
-<img width="1004" height="788" alt="image" src="https://github.com/user-attachments/assets/366b7238-8235-4c17-93a0-b6adb324a2bc" />
 
 ---
 
