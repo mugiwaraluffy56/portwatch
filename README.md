@@ -1,4 +1,4 @@
-# portwatch
+# portwatch 🦀
 
 A terminal UI for watching what's listening on your machine - see every open port, who owns it, and kill it if you need to. No more `lsof -i` pipelines.
 
